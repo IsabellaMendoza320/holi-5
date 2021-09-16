@@ -1,1 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="?tM;`|q178bsa5Q/{6fU" x="0" y="0"/><block type="device_forever" id="`a]/QjDrU+O:8*SFD68T" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="?tM;`|q178bsa5Q/{6fU" x="103" y="-504"/><block type="device_forever" id="`a]/QjDrU+O:8*SFD68T" x="279" y="-470"/><block type="function_definition" id="7ednBmYZ:YhKazJ1(E|1" x="-251" y="-321"><mutation name="gatuna" functionid="`?%Emk.A_!)lOfH(tbqB"/><field name="function_name">gatuna</field><statement name="STACK"><block type="device_show_leds" id="{kf=GW2dk}EYuZpx{Li8"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="function_definition" id="3#5i3bqraBrny-zv|02Y" x="183" y="-279"><mutation name="inteligente" functionid="!(#bV9oSKCu$|GKn%IG."/><field name="function_name">inteligente</field><statement name="STACK"><block type="device_show_leds" id="%npK6/Pf_T3!S@Y!.R~C"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        . # . # . 
+        . # # # .
+        `</field></block></statement></block><block type="function_definition" id="n.B?rpUm!EP,r;RovQAQ" x="-280" y="82"><mutation name="moda" functionid="^Q0M#]O-.].,1;[1ON18"/><field name="function_name">moda</field><statement name="STACK"><block type="device_show_leds" id="2YOypMrifC.FD:]|Ko|D"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        # # # # #
+        `</field></block></statement></block><block type="function_definition" id="kG:(O3?o.6KO*CQsRCn3" x="-37" y="87"><mutation name="feliz" functionid="?)Exzau):xi-f7s:SS{("/><field name="function_name">feliz</field><statement name="STACK"><block type="device_show_leds" id="y|ID($Le!s[1YB+@{P#b"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block><block type="function_definition" id="Xiy|p5mv.Pe?puI~ckIW" x="206" y="93"><mutation name="jugetona" functionid="#JZq0]ix3a!Cg@7bn?l$"/><field name="function_name">jugetona</field><statement name="STACK"><block type="device_show_leds" id="ctV,V-MmpgRZ}+Rd/:LW"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # # # # # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block></xml>
